@@ -5,8 +5,8 @@
 
 |   read     |   link       |
 ------------ | -------------
-read02a| [click her](raed02a)
-read02b | [click her](read02b)
+read02a| [click her](read02a.md)
+read02b | [click her](read02b.md)
 
 
  #  growth mindset 
