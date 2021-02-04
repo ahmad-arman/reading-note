@@ -1,45 +1,26 @@
-## Welcome to GitHub Pages
+![img](assets/ahmad3.jpeg)
+# **` Ahmad Arman`** 
+   Civil Engineer 
 
+# **` About me `** 
+I am Ahmad Arman I am a Civil Engineer,I graduaded from AL-Balqa Applied University with G.P.A 3.29/4,I was born in  jordan, 
+I live in Amman,I am 23 years old,I Like a software ,I like drive  cars  .
 
-# raeding-note 
+# **` content InfO `** 
+ * Phone Number : 00962796780751
+ * E-mail : aa0796780751@gmail.com
+ * GitHub : [GitHub](https://github.com/ahmad-arman)
 
-|   read     |   link       |
------------- | -------------
-read02a| [click her](read02a.md)
-read02b | [click her](read02b.md)
-
-
-#  growth mindset 
-
- A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort ,intelligence and talent
- that mean for me (my passion)
- for about my self that is mean go to the work hard go to work ang thing you can do ang thing if you want i alawys a passion in every thing start it 
- I do not have any thing can not do 
-
-# Challenges 
-
-  I chanllege MY self to improve  MY yourself 
-
-# Obstacles 
-
-
-  When I have obstacles I Will exit from mode bad i will do ang thing 
-# Effort
+# **` Table Content `** 
+ * [Growth mindset](mindset.md)
+ * [Markdown](read02a.md)
+ * [Git](read02b.md)
+ * [Structure web pages with HTML](read03.md) 
+ 
+  
 
 
 
-   I Work evey day for 15 hour that is very hard but i am Continuous
-
-   ## Here’s a simple illustration highlighting the differences between a fixed and a growth mindset:
 
 
-  * three reminders  keep myrself in a growth mindset 
 
-    1-I learn to more 15 hours in 
-
-    2-any thing for me is not hard and talk my self you can do it 
-
-    3-I am gift my self any thing not talk it evry day if sucssec or not 
-
-
-   
